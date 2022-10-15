@@ -4,4 +4,5 @@
 |    Diego    |  Bustamante       |  krostyle          | 
 | Daniel |  Robles  |  darobles   |
 | Pedro  | Campos | Fahren82 | 
+| Daniel | Morales | danmoralesletelier |
 
